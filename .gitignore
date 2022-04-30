@@ -9,6 +9,7 @@
 * .пользователь
 * .userosscache
 * .sln.docstates
+* .csproj
 
 # Пользовательские файлы (MonoDevelop/Xamarin Studio)
 * .userprefs
