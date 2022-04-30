@@ -1,0 +1,15 @@
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\bin\Debug\net6.0\Example_7.exe
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\bin\Debug\net6.0\Example_7.deps.json
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\bin\Debug\net6.0\Example_7.runtimeconfig.json
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\bin\Debug\net6.0\Example_7.dll
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\bin\Debug\net6.0\Example_7.pdb
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.csproj.AssemblyReference.cache
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.AssemblyInfoInputs.cache
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.AssemblyInfo.cs
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.csproj.CoreCompileInputs.cache
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.dll
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\refint\Example_7.dll
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.pdb
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\Example_7.genruntimeconfig.cache
+C:\Users\Public\Эвелина\Разработчик\2. Знакомство с языками программирования\Лекция 1\Example_7\obj\Debug\net6.0\ref\Example_7.dll
